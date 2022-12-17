@@ -1,6 +1,5 @@
 ### N-Queen-Problem
-
-> simple program about N-queen problem with the backtracking (recursive) function. This was created for academic purposes for the ```Intelligent Systems``` subject.
+Simple program about N-queen problem with the backtracking (recursive) function. This was created for academic purposes for the ```Intelligent Systems``` subject.
 
 **Features:**
 * Input from the user
